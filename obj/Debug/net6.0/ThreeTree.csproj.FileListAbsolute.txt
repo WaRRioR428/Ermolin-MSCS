@@ -1,0 +1,15 @@
+E:\ThreeTree\bin\Debug\net6.0\ThreeTree.exe
+E:\ThreeTree\bin\Debug\net6.0\ThreeTree.deps.json
+E:\ThreeTree\bin\Debug\net6.0\ThreeTree.runtimeconfig.json
+E:\ThreeTree\bin\Debug\net6.0\ThreeTree.dll
+E:\ThreeTree\bin\Debug\net6.0\ThreeTree.pdb
+E:\ThreeTree\obj\Debug\net6.0\ThreeTree.csproj.AssemblyReference.cache
+E:\ThreeTree\obj\Debug\net6.0\ThreeTree.GeneratedMSBuildEditorConfig.editorconfig
+E:\ThreeTree\obj\Debug\net6.0\ThreeTree.AssemblyInfoInputs.cache
+E:\ThreeTree\obj\Debug\net6.0\ThreeTree.AssemblyInfo.cs
+E:\ThreeTree\obj\Debug\net6.0\ThreeTree.csproj.CoreCompileInputs.cache
+E:\ThreeTree\obj\Debug\net6.0\ThreeTree.dll
+E:\ThreeTree\obj\Debug\net6.0\refint\ThreeTree.dll
+E:\ThreeTree\obj\Debug\net6.0\ThreeTree.pdb
+E:\ThreeTree\obj\Debug\net6.0\ThreeTree.genruntimeconfig.cache
+E:\ThreeTree\obj\Debug\net6.0\ref\ThreeTree.dll
